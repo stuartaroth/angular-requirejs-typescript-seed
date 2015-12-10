@@ -1,0 +1,1 @@
+{"version":3,"file":"exampleService.js","sourceRoot":"","sources":["exampleService.ts"],"names":["ExampleService","ExampleService.constructor","ExampleService.helloWorld"],"mappings":"AAAA,6CAA6C;;IAI7C;QAAAA;QAIAC,CAACA;QAHGD,mCAAUA,GAAVA;YACIE,MAAMA,CAACA,aAAaA,CAACA;QACzBA,CAACA;QACLF,qBAACA;IAADA,CAACA,AAJD,IAIC;IAND,OAAS,cAAc,CAAC"}
